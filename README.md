@@ -1,4 +1,4 @@
-<kbd>[![](theologicus/images/github-banner-theologicus3.png)](https://theologic.us)</kbd>
+<kbd>[![](theologicus/github-banner-theologicus3.png)](https://theologic.us)</kbd>
 
 ## upcoming
 
