@@ -17,6 +17,213 @@
 		0DDCA97D2B4B69F000D52E1C /* theologicusTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DDCA97C2B4B69F000D52E1C /* theologicusTests.swift */; };
 		0DDCA9872B4B69F000D52E1C /* theologicusUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DDCA9862B4B69F000D52E1C /* theologicusUITests.swift */; };
 		0DDCA9892B4B69F000D52E1C /* theologicusUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DDCA9882B4B69F000D52E1C /* theologicusUITestsLaunchTests.swift */; };
+		0DDCA9DA2B4B6A5F00D52E1C /* catechism-1680 in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9952B4B6A3E00D52E1C /* catechism-1680 */; };
+		0DDCA9DB2B4B6A5F00D52E1C /* catechism-1680 in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9952B4B6A3E00D52E1C /* catechism-1680 */; };
+		0DDCA9DC2B4B6A5F00D52E1C /* catechism-1680 in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9952B4B6A3E00D52E1C /* catechism-1680 */; };
+		0DDCA9DD2B4B6A5F00D52E1C /* logo-theologicus2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9962B4B6A3E00D52E1C /* logo-theologicus2.jpg */; };
+		0DDCA9DE2B4B6A5F00D52E1C /* logo-theologicus2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9962B4B6A3E00D52E1C /* logo-theologicus2.jpg */; };
+		0DDCA9DF2B4B6A5F00D52E1C /* logo-theologicus2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9962B4B6A3E00D52E1C /* logo-theologicus2.jpg */; };
+		0DDCA9E02B4B6A5F00D52E1C /* social-og-theologics3-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9972B4B6A3E00D52E1C /* social-og-theologics3-1.png */; };
+		0DDCA9E12B4B6A5F00D52E1C /* social-og-theologics3-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9972B4B6A3E00D52E1C /* social-og-theologics3-1.png */; };
+		0DDCA9E22B4B6A5F00D52E1C /* social-og-theologics3-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9972B4B6A3E00D52E1C /* social-og-theologics3-1.png */; };
+		0DDCA9E32B4B6A5F00D52E1C /* creed-apostles in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9982B4B6A4000D52E1C /* creed-apostles */; };
+		0DDCA9E42B4B6A5F00D52E1C /* creed-apostles in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9982B4B6A4000D52E1C /* creed-apostles */; };
+		0DDCA9E52B4B6A5F00D52E1C /* creed-apostles in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9982B4B6A4000D52E1C /* creed-apostles */; };
+		0DDCA9E62B4B6A5F00D52E1C /* doctrine-christ-saves in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9992B4B6A4100D52E1C /* doctrine-christ-saves */; };
+		0DDCA9E72B4B6A5F00D52E1C /* doctrine-christ-saves in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9992B4B6A4100D52E1C /* doctrine-christ-saves */; };
+		0DDCA9E82B4B6A5F00D52E1C /* doctrine-christ-saves in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9992B4B6A4100D52E1C /* doctrine-christ-saves */; };
+		0DDCA9E92B4B6A5F00D52E1C /* CHANGELOG.html in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA99A2B4B6A4100D52E1C /* CHANGELOG.html */; };
+		0DDCA9EA2B4B6A5F00D52E1C /* CHANGELOG.html in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA99A2B4B6A4100D52E1C /* CHANGELOG.html */; };
+		0DDCA9EB2B4B6A5F00D52E1C /* CHANGELOG.html in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA99A2B4B6A4100D52E1C /* CHANGELOG.html */; };
+		0DDCA9EC2B4B6A5F00D52E1C /* images in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA99B2B4B6A4300D52E1C /* images */; };
+		0DDCA9ED2B4B6A5F00D52E1C /* images in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA99B2B4B6A4300D52E1C /* images */; };
+		0DDCA9EE2B4B6A5F00D52E1C /* images in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA99B2B4B6A4300D52E1C /* images */; };
+		0DDCA9EF2B4B6A5F00D52E1C /* reviews in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA99C2B4B6A4400D52E1C /* reviews */; };
+		0DDCA9F02B4B6A5F00D52E1C /* reviews in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA99C2B4B6A4400D52E1C /* reviews */; };
+		0DDCA9F12B4B6A5F00D52E1C /* reviews in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA99C2B4B6A4400D52E1C /* reviews */; };
+		0DDCA9F22B4B6A5F00D52E1C /* 404.html in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA99D2B4B6A4400D52E1C /* 404.html */; };
+		0DDCA9F32B4B6A5F00D52E1C /* 404.html in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA99D2B4B6A4400D52E1C /* 404.html */; };
+		0DDCA9F42B4B6A5F00D52E1C /* 404.html in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA99D2B4B6A4400D52E1C /* 404.html */; };
+		0DDCA9F52B4B6A5F00D52E1C /* pastorals in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA99E2B4B6A4600D52E1C /* pastorals */; };
+		0DDCA9F62B4B6A5F00D52E1C /* pastorals in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA99E2B4B6A4600D52E1C /* pastorals */; };
+		0DDCA9F72B4B6A5F00D52E1C /* pastorals in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA99E2B4B6A4600D52E1C /* pastorals */; };
+		0DDCA9F82B4B6A5F00D52E1C /* judges in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA99F2B4B6A4700D52E1C /* judges */; };
+		0DDCA9F92B4B6A5F00D52E1C /* judges in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA99F2B4B6A4700D52E1C /* judges */; };
+		0DDCA9FA2B4B6A5F00D52E1C /* judges in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA99F2B4B6A4700D52E1C /* judges */; };
+		0DDCA9FB2B4B6A5F00D52E1C /* logo-theologicus.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A02B4B6A4700D52E1C /* logo-theologicus.png */; };
+		0DDCA9FC2B4B6A5F00D52E1C /* logo-theologicus.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A02B4B6A4700D52E1C /* logo-theologicus.png */; };
+		0DDCA9FD2B4B6A5F00D52E1C /* logo-theologicus.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A02B4B6A4700D52E1C /* logo-theologicus.png */; };
+		0DDCA9FE2B4B6A5F00D52E1C /* matthew in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A12B4B6A4900D52E1C /* matthew */; };
+		0DDCA9FF2B4B6A5F00D52E1C /* matthew in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A12B4B6A4900D52E1C /* matthew */; };
+		0DDCAA002B4B6A5F00D52E1C /* matthew in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A12B4B6A4900D52E1C /* matthew */; };
+		0DDCAA012B4B6A5F00D52E1C /* creeds in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A22B4B6A4A00D52E1C /* creeds */; };
+		0DDCAA022B4B6A5F00D52E1C /* creeds in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A22B4B6A4A00D52E1C /* creeds */; };
+		0DDCAA032B4B6A5F00D52E1C /* creeds in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A22B4B6A4A00D52E1C /* creeds */; };
+		0DDCAA042B4B6A5F00D52E1C /* favicon.ico in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A32B4B6A4B00D52E1C /* favicon.ico */; };
+		0DDCAA052B4B6A5F00D52E1C /* favicon.ico in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A32B4B6A4B00D52E1C /* favicon.ico */; };
+		0DDCAA062B4B6A5F00D52E1C /* favicon.ico in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A32B4B6A4B00D52E1C /* favicon.ico */; };
+		0DDCAA072B4B6A5F00D52E1C /* ruth in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A42B4B6A4C00D52E1C /* ruth */; };
+		0DDCAA082B4B6A5F00D52E1C /* ruth in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A42B4B6A4C00D52E1C /* ruth */; };
+		0DDCAA092B4B6A5F00D52E1C /* ruth in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A42B4B6A4C00D52E1C /* ruth */; };
+		0DDCAA0A2B4B6A5F00D52E1C /* samuel-2 in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A52B4B6A4E00D52E1C /* samuel-2 */; };
+		0DDCAA0B2B4B6A5F00D52E1C /* samuel-2 in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A52B4B6A4E00D52E1C /* samuel-2 */; };
+		0DDCAA0C2B4B6A5F00D52E1C /* samuel-2 in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A52B4B6A4E00D52E1C /* samuel-2 */; };
+		0DDCAA0D2B4B6A5F00D52E1C /* searchindex.json in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A62B4B6A4E00D52E1C /* searchindex.json */; };
+		0DDCAA0E2B4B6A5F00D52E1C /* searchindex.json in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A62B4B6A4E00D52E1C /* searchindex.json */; };
+		0DDCAA0F2B4B6A5F00D52E1C /* searchindex.json in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A62B4B6A4E00D52E1C /* searchindex.json */; };
+		0DDCAA102B4B6A5F00D52E1C /* expositors-academy in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A72B4B6A4E00D52E1C /* expositors-academy */; };
+		0DDCAA112B4B6A5F00D52E1C /* expositors-academy in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A72B4B6A4E00D52E1C /* expositors-academy */; };
+		0DDCAA122B4B6A5F00D52E1C /* expositors-academy in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A72B4B6A4E00D52E1C /* expositors-academy */; };
+		0DDCAA132B4B6A5F00D52E1C /* author.html in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A82B4B6A4E00D52E1C /* author.html */; };
+		0DDCAA142B4B6A5F00D52E1C /* author.html in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A82B4B6A4E00D52E1C /* author.html */; };
+		0DDCAA152B4B6A5F00D52E1C /* author.html in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A82B4B6A4E00D52E1C /* author.html */; };
+		0DDCAA162B4B6A5F00D52E1C /* clipboard.min.js in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A92B4B6A4E00D52E1C /* clipboard.min.js */; };
+		0DDCAA172B4B6A5F00D52E1C /* clipboard.min.js in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A92B4B6A4E00D52E1C /* clipboard.min.js */; };
+		0DDCAA182B4B6A5F00D52E1C /* clipboard.min.js in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9A92B4B6A4E00D52E1C /* clipboard.min.js */; };
+		0DDCAA192B4B6A5F00D52E1C /* samuel-1 in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9AA2B4B6A4F00D52E1C /* samuel-1 */; };
+		0DDCAA1A2B4B6A5F00D52E1C /* samuel-1 in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9AA2B4B6A4F00D52E1C /* samuel-1 */; };
+		0DDCAA1B2B4B6A5F00D52E1C /* samuel-1 in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9AA2B4B6A4F00D52E1C /* samuel-1 */; };
+		0DDCAA1C2B4B6A5F00D52E1C /* book.js in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9AB2B4B6A4F00D52E1C /* book.js */; };
+		0DDCAA1D2B4B6A5F00D52E1C /* book.js in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9AB2B4B6A4F00D52E1C /* book.js */; };
+		0DDCAA1E2B4B6A5F00D52E1C /* book.js in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9AB2B4B6A4F00D52E1C /* book.js */; };
+		0DDCAA1F2B4B6A5F00D52E1C /* github-book-theologicus.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9AC2B4B6A4F00D52E1C /* github-book-theologicus.jpg */; };
+		0DDCAA202B4B6A5F00D52E1C /* github-book-theologicus.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9AC2B4B6A4F00D52E1C /* github-book-theologicus.jpg */; };
+		0DDCAA212B4B6A5F00D52E1C /* github-book-theologicus.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9AC2B4B6A4F00D52E1C /* github-book-theologicus.jpg */; };
+		0DDCAA222B4B6A5F00D52E1C /* print.html in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9AD2B4B6A5000D52E1C /* print.html */; };
+		0DDCAA232B4B6A5F00D52E1C /* print.html in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9AD2B4B6A5000D52E1C /* print.html */; };
+		0DDCAA242B4B6A5F00D52E1C /* print.html in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9AD2B4B6A5000D52E1C /* print.html */; };
+		0DDCAA252B4B6A5F00D52E1C /* FontAwesome in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9AE2B4B6A5000D52E1C /* FontAwesome */; };
+		0DDCAA262B4B6A5F00D52E1C /* FontAwesome in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9AE2B4B6A5000D52E1C /* FontAwesome */; };
+		0DDCAA272B4B6A5F00D52E1C /* FontAwesome in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9AE2B4B6A5000D52E1C /* FontAwesome */; };
+		0DDCAA282B4B6A5F00D52E1C /* linkedin-banner-jlouthan4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9AF2B4B6A5000D52E1C /* linkedin-banner-jlouthan4.jpg */; };
+		0DDCAA292B4B6A5F00D52E1C /* linkedin-banner-jlouthan4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9AF2B4B6A5000D52E1C /* linkedin-banner-jlouthan4.jpg */; };
+		0DDCAA2A2B4B6A5F00D52E1C /* linkedin-banner-jlouthan4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9AF2B4B6A5000D52E1C /* linkedin-banner-jlouthan4.jpg */; };
+		0DDCAA2B2B4B6A5F00D52E1C /* favicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B02B4B6A5000D52E1C /* favicon.png */; };
+		0DDCAA2C2B4B6A5F00D52E1C /* favicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B02B4B6A5000D52E1C /* favicon.png */; };
+		0DDCAA2D2B4B6A5F00D52E1C /* favicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B02B4B6A5000D52E1C /* favicon.png */; };
+		0DDCAA2E2B4B6A5F00D52E1C /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B12B4B6A5000D52E1C /* index.html */; };
+		0DDCAA2F2B4B6A5F00D52E1C /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B12B4B6A5000D52E1C /* index.html */; };
+		0DDCAA302B4B6A5F00D52E1C /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B12B4B6A5000D52E1C /* index.html */; };
+		0DDCAA312B4B6A5F00D52E1C /* youtube-book-theologicus3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B22B4B6A5000D52E1C /* youtube-book-theologicus3.jpg */; };
+		0DDCAA322B4B6A5F00D52E1C /* youtube-book-theologicus3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B22B4B6A5000D52E1C /* youtube-book-theologicus3.jpg */; };
+		0DDCAA332B4B6A5F00D52E1C /* youtube-book-theologicus3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B22B4B6A5000D52E1C /* youtube-book-theologicus3.jpg */; };
+		0DDCAA342B4B6A5F00D52E1C /* confession-1689 in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B32B4B6A5200D52E1C /* confession-1689 */; };
+		0DDCAA352B4B6A5F00D52E1C /* confession-1689 in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B32B4B6A5200D52E1C /* confession-1689 */; };
+		0DDCAA362B4B6A5F00D52E1C /* confession-1689 in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B32B4B6A5200D52E1C /* confession-1689 */; };
+		0DDCAA372B4B6A5F00D52E1C /* mark.min.js in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B42B4B6A5200D52E1C /* mark.min.js */; };
+		0DDCAA382B4B6A5F00D52E1C /* mark.min.js in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B42B4B6A5200D52E1C /* mark.min.js */; };
+		0DDCAA392B4B6A5F00D52E1C /* mark.min.js in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B42B4B6A5200D52E1C /* mark.min.js */; };
+		0DDCAA3A2B4B6A5F00D52E1C /* highlight.js in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B52B4B6A5200D52E1C /* highlight.js */; };
+		0DDCAA3B2B4B6A5F00D52E1C /* highlight.js in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B52B4B6A5200D52E1C /* highlight.js */; };
+		0DDCAA3C2B4B6A5F00D52E1C /* highlight.js in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B52B4B6A5200D52E1C /* highlight.js */; };
+		0DDCAA3D2B4B6A5F00D52E1C /* luke in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B62B4B6A5400D52E1C /* luke */; };
+		0DDCAA3E2B4B6A5F00D52E1C /* luke in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B62B4B6A5400D52E1C /* luke */; };
+		0DDCAA3F2B4B6A5F00D52E1C /* luke in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B62B4B6A5400D52E1C /* luke */; };
+		0DDCAA402B4B6A5F00D52E1C /* favicon-32x32.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B72B4B6A5400D52E1C /* favicon-32x32.png */; };
+		0DDCAA412B4B6A5F00D52E1C /* favicon-32x32.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B72B4B6A5400D52E1C /* favicon-32x32.png */; };
+		0DDCAA422B4B6A5F00D52E1C /* favicon-32x32.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B72B4B6A5400D52E1C /* favicon-32x32.png */; };
+		0DDCAA432B4B6A5F00D52E1C /* android-chrome-384x384.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B82B4B6A5400D52E1C /* android-chrome-384x384.png */; };
+		0DDCAA442B4B6A5F00D52E1C /* android-chrome-384x384.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B82B4B6A5400D52E1C /* android-chrome-384x384.png */; };
+		0DDCAA452B4B6A5F00D52E1C /* android-chrome-384x384.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B82B4B6A5400D52E1C /* android-chrome-384x384.png */; };
+		0DDCAA462B4B6A5F00D52E1C /* mstile-150x150.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B92B4B6A5400D52E1C /* mstile-150x150.png */; };
+		0DDCAA472B4B6A5F00D52E1C /* mstile-150x150.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B92B4B6A5400D52E1C /* mstile-150x150.png */; };
+		0DDCAA482B4B6A5F00D52E1C /* mstile-150x150.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9B92B4B6A5400D52E1C /* mstile-150x150.png */; };
+		0DDCAA492B4B6A5F00D52E1C /* favicon-16x16.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9BA2B4B6A5400D52E1C /* favicon-16x16.png */; };
+		0DDCAA4A2B4B6A5F00D52E1C /* favicon-16x16.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9BA2B4B6A5400D52E1C /* favicon-16x16.png */; };
+		0DDCAA4B2B4B6A5F00D52E1C /* favicon-16x16.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9BA2B4B6A5400D52E1C /* favicon-16x16.png */; };
+		0DDCAA4C2B4B6A5F00D52E1C /* logo-theologicus3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9BB2B4B6A5400D52E1C /* logo-theologicus3.png */; };
+		0DDCAA4D2B4B6A5F00D52E1C /* logo-theologicus3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9BB2B4B6A5400D52E1C /* logo-theologicus3.png */; };
+		0DDCAA4E2B4B6A5F00D52E1C /* logo-theologicus3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9BB2B4B6A5400D52E1C /* logo-theologicus3.png */; };
+		0DDCAA4F2B4B6A5F00D52E1C /* ministry.html in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9BC2B4B6A5400D52E1C /* ministry.html */; };
+		0DDCAA502B4B6A5F00D52E1C /* ministry.html in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9BC2B4B6A5400D52E1C /* ministry.html */; };
+		0DDCAA512B4B6A5F00D52E1C /* ministry.html in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9BC2B4B6A5400D52E1C /* ministry.html */; };
+		0DDCAA522B4B6A5F00D52E1C /* searcher.js in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9BD2B4B6A5400D52E1C /* searcher.js */; };
+		0DDCAA532B4B6A5F00D52E1C /* searcher.js in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9BD2B4B6A5400D52E1C /* searcher.js */; };
+		0DDCAA542B4B6A5F00D52E1C /* searcher.js in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9BD2B4B6A5400D52E1C /* searcher.js */; };
+		0DDCAA552B4B6A5F00D52E1C /* searchindex.js in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9BE2B4B6A5400D52E1C /* searchindex.js */; };
+		0DDCAA562B4B6A5F00D52E1C /* searchindex.js in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9BE2B4B6A5400D52E1C /* searchindex.js */; };
+		0DDCAA572B4B6A5F00D52E1C /* searchindex.js in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9BE2B4B6A5400D52E1C /* searchindex.js */; };
+		0DDCAA582B4B6A5F00D52E1C /* ayu-highlight.css in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9BF2B4B6A5400D52E1C /* ayu-highlight.css */; };
+		0DDCAA592B4B6A5F00D52E1C /* ayu-highlight.css in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9BF2B4B6A5400D52E1C /* ayu-highlight.css */; };
+		0DDCAA5A2B4B6A5F00D52E1C /* ayu-highlight.css in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9BF2B4B6A5400D52E1C /* ayu-highlight.css */; };
+		0DDCAA5B2B4B6A5F00D52E1C /* vocation.html in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C02B4B6A5400D52E1C /* vocation.html */; };
+		0DDCAA5C2B4B6A5F00D52E1C /* vocation.html in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C02B4B6A5400D52E1C /* vocation.html */; };
+		0DDCAA5D2B4B6A5F00D52E1C /* vocation.html in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C02B4B6A5400D52E1C /* vocation.html */; };
+		0DDCAA5E2B4B6A5F00D52E1C /* elasticlunr.min.js in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C12B4B6A5400D52E1C /* elasticlunr.min.js */; };
+		0DDCAA5F2B4B6A5F00D52E1C /* elasticlunr.min.js in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C12B4B6A5400D52E1C /* elasticlunr.min.js */; };
+		0DDCAA602B4B6A5F00D52E1C /* elasticlunr.min.js in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C12B4B6A5400D52E1C /* elasticlunr.min.js */; };
+		0DDCAA612B4B6A5F00D52E1C /* social-twitter-theologics3-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C22B4B6A5400D52E1C /* social-twitter-theologics3-1.png */; };
+		0DDCAA622B4B6A5F00D52E1C /* social-twitter-theologics3-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C22B4B6A5400D52E1C /* social-twitter-theologics3-1.png */; };
+		0DDCAA632B4B6A5F00D52E1C /* social-twitter-theologics3-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C22B4B6A5400D52E1C /* social-twitter-theologics3-1.png */; };
+		0DDCAA642B4B6A5F00D52E1C /* mark in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C32B4B6A5600D52E1C /* mark */; };
+		0DDCAA652B4B6A5F00D52E1C /* mark in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C32B4B6A5600D52E1C /* mark */; };
+		0DDCAA662B4B6A5F00D52E1C /* mark in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C32B4B6A5600D52E1C /* mark */; };
+		0DDCAA672B4B6A5F00D52E1C /* mstile-144x144.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C42B4B6A5600D52E1C /* mstile-144x144.png */; };
+		0DDCAA682B4B6A5F00D52E1C /* mstile-144x144.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C42B4B6A5600D52E1C /* mstile-144x144.png */; };
+		0DDCAA692B4B6A5F00D52E1C /* mstile-144x144.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C42B4B6A5600D52E1C /* mstile-144x144.png */; };
+		0DDCAA6A2B4B6A5F00D52E1C /* logo-safe6-sa.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C52B4B6A5600D52E1C /* logo-safe6-sa.png */; };
+		0DDCAA6B2B4B6A5F00D52E1C /* logo-safe6-sa.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C52B4B6A5600D52E1C /* logo-safe6-sa.png */; };
+		0DDCAA6C2B4B6A5F00D52E1C /* logo-safe6-sa.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C52B4B6A5600D52E1C /* logo-safe6-sa.png */; };
+		0DDCAA6D2B4B6A5F00D52E1C /* site.webmanifest in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C62B4B6A5600D52E1C /* site.webmanifest */; };
+		0DDCAA6E2B4B6A5F00D52E1C /* site.webmanifest in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C62B4B6A5600D52E1C /* site.webmanifest */; };
+		0DDCAA6F2B4B6A5F00D52E1C /* site.webmanifest in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C62B4B6A5600D52E1C /* site.webmanifest */; };
+		0DDCAA702B4B6A5F00D52E1C /* browserconfig.xml in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C72B4B6A5600D52E1C /* browserconfig.xml */; };
+		0DDCAA712B4B6A5F00D52E1C /* browserconfig.xml in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C72B4B6A5600D52E1C /* browserconfig.xml */; };
+		0DDCAA722B4B6A5F00D52E1C /* browserconfig.xml in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C72B4B6A5600D52E1C /* browserconfig.xml */; };
+		0DDCAA732B4B6A5F00D52E1C /* fonts in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C82B4B6A5600D52E1C /* fonts */; };
+		0DDCAA742B4B6A5F00D52E1C /* fonts in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C82B4B6A5600D52E1C /* fonts */; };
+		0DDCAA752B4B6A5F00D52E1C /* fonts in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C82B4B6A5600D52E1C /* fonts */; };
+		0DDCAA762B4B6A5F00D52E1C /* romans in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C92B4B6A5800D52E1C /* romans */; };
+		0DDCAA772B4B6A5F00D52E1C /* romans in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C92B4B6A5800D52E1C /* romans */; };
+		0DDCAA782B4B6A5F00D52E1C /* romans in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9C92B4B6A5800D52E1C /* romans */; };
+		0DDCAA792B4B6A5F00D52E1C /* genesis in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9CA2B4B6A5A00D52E1C /* genesis */; };
+		0DDCAA7A2B4B6A5F00D52E1C /* genesis in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9CA2B4B6A5A00D52E1C /* genesis */; };
+		0DDCAA7B2B4B6A5F00D52E1C /* genesis in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9CA2B4B6A5A00D52E1C /* genesis */; };
+		0DDCAA7C2B4B6A5F00D52E1C /* safari-pinned-tab.svg in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9CB2B4B6A5A00D52E1C /* safari-pinned-tab.svg */; };
+		0DDCAA7D2B4B6A5F00D52E1C /* safari-pinned-tab.svg in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9CB2B4B6A5A00D52E1C /* safari-pinned-tab.svg */; };
+		0DDCAA7E2B4B6A5F00D52E1C /* safari-pinned-tab.svg in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9CB2B4B6A5A00D52E1C /* safari-pinned-tab.svg */; };
+		0DDCAA7F2B4B6A5F00D52E1C /* bibliography in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9CC2B4B6A5C00D52E1C /* bibliography */; };
+		0DDCAA802B4B6A5F00D52E1C /* bibliography in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9CC2B4B6A5C00D52E1C /* bibliography */; };
+		0DDCAA812B4B6A5F00D52E1C /* bibliography in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9CC2B4B6A5C00D52E1C /* bibliography */; };
+		0DDCAA822B4B6A5F00D52E1C /* apple-touch-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9CD2B4B6A5C00D52E1C /* apple-touch-icon.png */; };
+		0DDCAA832B4B6A5F00D52E1C /* apple-touch-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9CD2B4B6A5C00D52E1C /* apple-touch-icon.png */; };
+		0DDCAA842B4B6A5F00D52E1C /* apple-touch-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9CD2B4B6A5C00D52E1C /* apple-touch-icon.png */; };
+		0DDCAA852B4B6A5F00D52E1C /* jlouthan-ai-starry-back-500-01.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9CE2B4B6A5C00D52E1C /* jlouthan-ai-starry-back-500-01.png */; };
+		0DDCAA862B4B6A5F00D52E1C /* jlouthan-ai-starry-back-500-01.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9CE2B4B6A5C00D52E1C /* jlouthan-ai-starry-back-500-01.png */; };
+		0DDCAA872B4B6A5F00D52E1C /* jlouthan-ai-starry-back-500-01.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9CE2B4B6A5C00D52E1C /* jlouthan-ai-starry-back-500-01.png */; };
+		0DDCAA882B4B6A5F00D52E1C /* css in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9CF2B4B6A5C00D52E1C /* css */; };
+		0DDCAA892B4B6A5F00D52E1C /* css in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9CF2B4B6A5C00D52E1C /* css */; };
+		0DDCAA8A2B4B6A5F00D52E1C /* css in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9CF2B4B6A5C00D52E1C /* css */; };
+		0DDCAA8B2B4B6A5F00D52E1C /* favicon.svg in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D02B4B6A5C00D52E1C /* favicon.svg */; };
+		0DDCAA8C2B4B6A5F00D52E1C /* favicon.svg in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D02B4B6A5C00D52E1C /* favicon.svg */; };
+		0DDCAA8D2B4B6A5F00D52E1C /* favicon.svg in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D02B4B6A5C00D52E1C /* favicon.svg */; };
+		0DDCAA8E2B4B6A5F00D52E1C /* github-book-theologicus3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D12B4B6A5C00D52E1C /* github-book-theologicus3.png */; };
+		0DDCAA8F2B4B6A5F00D52E1C /* github-book-theologicus3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D12B4B6A5C00D52E1C /* github-book-theologicus3.png */; };
+		0DDCAA902B4B6A5F00D52E1C /* github-book-theologicus3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D12B4B6A5C00D52E1C /* github-book-theologicus3.png */; };
+		0DDCAA912B4B6A5F00D52E1C /* github-banner-theologicus3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D22B4B6A5C00D52E1C /* github-banner-theologicus3.png */; };
+		0DDCAA922B4B6A5F00D52E1C /* github-banner-theologicus3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D22B4B6A5C00D52E1C /* github-banner-theologicus3.png */; };
+		0DDCAA932B4B6A5F00D52E1C /* github-banner-theologicus3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D22B4B6A5C00D52E1C /* github-banner-theologicus3.png */; };
+		0DDCAA942B4B6A5F00D52E1C /* mstile-310x310.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D32B4B6A5C00D52E1C /* mstile-310x310.png */; };
+		0DDCAA952B4B6A5F00D52E1C /* mstile-310x310.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D32B4B6A5C00D52E1C /* mstile-310x310.png */; };
+		0DDCAA962B4B6A5F00D52E1C /* mstile-310x310.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D32B4B6A5C00D52E1C /* mstile-310x310.png */; };
+		0DDCAA972B4B6A5F00D52E1C /* highlight.css in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D42B4B6A5C00D52E1C /* highlight.css */; };
+		0DDCAA982B4B6A5F00D52E1C /* highlight.css in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D42B4B6A5C00D52E1C /* highlight.css */; };
+		0DDCAA992B4B6A5F00D52E1C /* highlight.css in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D42B4B6A5C00D52E1C /* highlight.css */; };
+		0DDCAA9A2B4B6A5F00D52E1C /* android-chrome-192x192.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D52B4B6A5C00D52E1C /* android-chrome-192x192.png */; };
+		0DDCAA9B2B4B6A5F00D52E1C /* android-chrome-192x192.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D52B4B6A5C00D52E1C /* android-chrome-192x192.png */; };
+		0DDCAA9C2B4B6A5F00D52E1C /* android-chrome-192x192.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D52B4B6A5C00D52E1C /* android-chrome-192x192.png */; };
+		0DDCAA9D2B4B6A5F00D52E1C /* tomorrow-night.css in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D62B4B6A5C00D52E1C /* tomorrow-night.css */; };
+		0DDCAA9E2B4B6A5F00D52E1C /* tomorrow-night.css in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D62B4B6A5C00D52E1C /* tomorrow-night.css */; };
+		0DDCAA9F2B4B6A5F00D52E1C /* tomorrow-night.css in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D62B4B6A5C00D52E1C /* tomorrow-night.css */; };
+		0DDCAAA02B4B6A5F00D52E1C /* logo-csm.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D72B4B6A5C00D52E1C /* logo-csm.png */; };
+		0DDCAAA12B4B6A5F00D52E1C /* logo-csm.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D72B4B6A5C00D52E1C /* logo-csm.png */; };
+		0DDCAAA22B4B6A5F00D52E1C /* logo-csm.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D72B4B6A5C00D52E1C /* logo-csm.png */; };
+		0DDCAAA32B4B6A5F00D52E1C /* psalms in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D82B4B6A5F00D52E1C /* psalms */; };
+		0DDCAAA42B4B6A5F00D52E1C /* psalms in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D82B4B6A5F00D52E1C /* psalms */; };
+		0DDCAAA52B4B6A5F00D52E1C /* psalms in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D82B4B6A5F00D52E1C /* psalms */; };
+		0DDCAAA62B4B6A5F00D52E1C /* linkedin-banner-jlouthan3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D92B4B6A5F00D52E1C /* linkedin-banner-jlouthan3.png */; };
+		0DDCAAA72B4B6A5F00D52E1C /* linkedin-banner-jlouthan3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D92B4B6A5F00D52E1C /* linkedin-banner-jlouthan3.png */; };
+		0DDCAAA82B4B6A5F00D52E1C /* linkedin-banner-jlouthan3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DDCA9D92B4B6A5F00D52E1C /* linkedin-banner-jlouthan3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +259,75 @@
 		0DDCA9822B4B69F000D52E1C /* theologicusUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = theologicusUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DDCA9862B4B69F000D52E1C /* theologicusUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = theologicusUITests.swift; sourceTree = "<group>"; };
 		0DDCA9882B4B69F000D52E1C /* theologicusUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = theologicusUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0DDCA9952B4B6A3E00D52E1C /* catechism-1680 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "catechism-1680"; sourceTree = "<group>"; };
+		0DDCA9962B4B6A3E00D52E1C /* logo-theologicus2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "logo-theologicus2.jpg"; sourceTree = "<group>"; };
+		0DDCA9972B4B6A3E00D52E1C /* social-og-theologics3-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "social-og-theologics3-1.png"; sourceTree = "<group>"; };
+		0DDCA9982B4B6A4000D52E1C /* creed-apostles */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "creed-apostles"; sourceTree = "<group>"; };
+		0DDCA9992B4B6A4100D52E1C /* doctrine-christ-saves */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "doctrine-christ-saves"; sourceTree = "<group>"; };
+		0DDCA99A2B4B6A4100D52E1C /* CHANGELOG.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = CHANGELOG.html; sourceTree = "<group>"; };
+		0DDCA99B2B4B6A4300D52E1C /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
+		0DDCA99C2B4B6A4400D52E1C /* reviews */ = {isa = PBXFileReference; lastKnownFileType = folder; path = reviews; sourceTree = "<group>"; };
+		0DDCA99D2B4B6A4400D52E1C /* 404.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = 404.html; sourceTree = "<group>"; };
+		0DDCA99E2B4B6A4600D52E1C /* pastorals */ = {isa = PBXFileReference; lastKnownFileType = folder; path = pastorals; sourceTree = "<group>"; };
+		0DDCA99F2B4B6A4700D52E1C /* judges */ = {isa = PBXFileReference; lastKnownFileType = folder; path = judges; sourceTree = "<group>"; };
+		0DDCA9A02B4B6A4700D52E1C /* logo-theologicus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "logo-theologicus.png"; sourceTree = "<group>"; };
+		0DDCA9A12B4B6A4900D52E1C /* matthew */ = {isa = PBXFileReference; lastKnownFileType = folder; path = matthew; sourceTree = "<group>"; };
+		0DDCA9A22B4B6A4A00D52E1C /* creeds */ = {isa = PBXFileReference; lastKnownFileType = folder; path = creeds; sourceTree = "<group>"; };
+		0DDCA9A32B4B6A4B00D52E1C /* favicon.ico */ = {isa = PBXFileReference; lastKnownFileType = image.ico; path = favicon.ico; sourceTree = "<group>"; };
+		0DDCA9A42B4B6A4C00D52E1C /* ruth */ = {isa = PBXFileReference; lastKnownFileType = folder; path = ruth; sourceTree = "<group>"; };
+		0DDCA9A52B4B6A4E00D52E1C /* samuel-2 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "samuel-2"; sourceTree = "<group>"; };
+		0DDCA9A62B4B6A4E00D52E1C /* searchindex.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = searchindex.json; sourceTree = "<group>"; };
+		0DDCA9A72B4B6A4E00D52E1C /* expositors-academy */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "expositors-academy"; sourceTree = "<group>"; };
+		0DDCA9A82B4B6A4E00D52E1C /* author.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = author.html; sourceTree = "<group>"; };
+		0DDCA9A92B4B6A4E00D52E1C /* clipboard.min.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = clipboard.min.js; sourceTree = "<group>"; };
+		0DDCA9AA2B4B6A4F00D52E1C /* samuel-1 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "samuel-1"; sourceTree = "<group>"; };
+		0DDCA9AB2B4B6A4F00D52E1C /* book.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = book.js; sourceTree = "<group>"; };
+		0DDCA9AC2B4B6A4F00D52E1C /* github-book-theologicus.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "github-book-theologicus.jpg"; sourceTree = "<group>"; };
+		0DDCA9AD2B4B6A5000D52E1C /* print.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = print.html; sourceTree = "<group>"; };
+		0DDCA9AE2B4B6A5000D52E1C /* FontAwesome */ = {isa = PBXFileReference; lastKnownFileType = folder; path = FontAwesome; sourceTree = "<group>"; };
+		0DDCA9AF2B4B6A5000D52E1C /* linkedin-banner-jlouthan4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "linkedin-banner-jlouthan4.jpg"; sourceTree = "<group>"; };
+		0DDCA9B02B4B6A5000D52E1C /* favicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = favicon.png; sourceTree = "<group>"; };
+		0DDCA9B12B4B6A5000D52E1C /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		0DDCA9B22B4B6A5000D52E1C /* youtube-book-theologicus3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "youtube-book-theologicus3.jpg"; sourceTree = "<group>"; };
+		0DDCA9B32B4B6A5200D52E1C /* confession-1689 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "confession-1689"; sourceTree = "<group>"; };
+		0DDCA9B42B4B6A5200D52E1C /* mark.min.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = mark.min.js; sourceTree = "<group>"; };
+		0DDCA9B52B4B6A5200D52E1C /* highlight.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = highlight.js; sourceTree = "<group>"; };
+		0DDCA9B62B4B6A5400D52E1C /* luke */ = {isa = PBXFileReference; lastKnownFileType = folder; path = luke; sourceTree = "<group>"; };
+		0DDCA9B72B4B6A5400D52E1C /* favicon-32x32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "favicon-32x32.png"; sourceTree = "<group>"; };
+		0DDCA9B82B4B6A5400D52E1C /* android-chrome-384x384.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "android-chrome-384x384.png"; sourceTree = "<group>"; };
+		0DDCA9B92B4B6A5400D52E1C /* mstile-150x150.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mstile-150x150.png"; sourceTree = "<group>"; };
+		0DDCA9BA2B4B6A5400D52E1C /* favicon-16x16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "favicon-16x16.png"; sourceTree = "<group>"; };
+		0DDCA9BB2B4B6A5400D52E1C /* logo-theologicus3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "logo-theologicus3.png"; sourceTree = "<group>"; };
+		0DDCA9BC2B4B6A5400D52E1C /* ministry.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = ministry.html; sourceTree = "<group>"; };
+		0DDCA9BD2B4B6A5400D52E1C /* searcher.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = searcher.js; sourceTree = "<group>"; };
+		0DDCA9BE2B4B6A5400D52E1C /* searchindex.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = searchindex.js; sourceTree = "<group>"; };
+		0DDCA9BF2B4B6A5400D52E1C /* ayu-highlight.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = "ayu-highlight.css"; sourceTree = "<group>"; };
+		0DDCA9C02B4B6A5400D52E1C /* vocation.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = vocation.html; sourceTree = "<group>"; };
+		0DDCA9C12B4B6A5400D52E1C /* elasticlunr.min.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = elasticlunr.min.js; sourceTree = "<group>"; };
+		0DDCA9C22B4B6A5400D52E1C /* social-twitter-theologics3-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "social-twitter-theologics3-1.png"; sourceTree = "<group>"; };
+		0DDCA9C32B4B6A5600D52E1C /* mark */ = {isa = PBXFileReference; lastKnownFileType = folder; path = mark; sourceTree = "<group>"; };
+		0DDCA9C42B4B6A5600D52E1C /* mstile-144x144.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mstile-144x144.png"; sourceTree = "<group>"; };
+		0DDCA9C52B4B6A5600D52E1C /* logo-safe6-sa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "logo-safe6-sa.png"; sourceTree = "<group>"; };
+		0DDCA9C62B4B6A5600D52E1C /* site.webmanifest */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = site.webmanifest; sourceTree = "<group>"; };
+		0DDCA9C72B4B6A5600D52E1C /* browserconfig.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = browserconfig.xml; sourceTree = "<group>"; };
+		0DDCA9C82B4B6A5600D52E1C /* fonts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = fonts; sourceTree = "<group>"; };
+		0DDCA9C92B4B6A5800D52E1C /* romans */ = {isa = PBXFileReference; lastKnownFileType = folder; path = romans; sourceTree = "<group>"; };
+		0DDCA9CA2B4B6A5A00D52E1C /* genesis */ = {isa = PBXFileReference; lastKnownFileType = folder; path = genesis; sourceTree = "<group>"; };
+		0DDCA9CB2B4B6A5A00D52E1C /* safari-pinned-tab.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "safari-pinned-tab.svg"; sourceTree = "<group>"; };
+		0DDCA9CC2B4B6A5C00D52E1C /* bibliography */ = {isa = PBXFileReference; lastKnownFileType = folder; path = bibliography; sourceTree = "<group>"; };
+		0DDCA9CD2B4B6A5C00D52E1C /* apple-touch-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "apple-touch-icon.png"; sourceTree = "<group>"; };
+		0DDCA9CE2B4B6A5C00D52E1C /* jlouthan-ai-starry-back-500-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "jlouthan-ai-starry-back-500-01.png"; sourceTree = "<group>"; };
+		0DDCA9CF2B4B6A5C00D52E1C /* css */ = {isa = PBXFileReference; lastKnownFileType = folder; path = css; sourceTree = "<group>"; };
+		0DDCA9D02B4B6A5C00D52E1C /* favicon.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = favicon.svg; sourceTree = "<group>"; };
+		0DDCA9D12B4B6A5C00D52E1C /* github-book-theologicus3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "github-book-theologicus3.png"; sourceTree = "<group>"; };
+		0DDCA9D22B4B6A5C00D52E1C /* github-banner-theologicus3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "github-banner-theologicus3.png"; sourceTree = "<group>"; };
+		0DDCA9D32B4B6A5C00D52E1C /* mstile-310x310.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mstile-310x310.png"; sourceTree = "<group>"; };
+		0DDCA9D42B4B6A5C00D52E1C /* highlight.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = highlight.css; sourceTree = "<group>"; };
+		0DDCA9D52B4B6A5C00D52E1C /* android-chrome-192x192.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "android-chrome-192x192.png"; sourceTree = "<group>"; };
+		0DDCA9D62B4B6A5C00D52E1C /* tomorrow-night.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = "tomorrow-night.css"; sourceTree = "<group>"; };
+		0DDCA9D72B4B6A5C00D52E1C /* logo-csm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "logo-csm.png"; sourceTree = "<group>"; };
+		0DDCA9D82B4B6A5F00D52E1C /* psalms */ = {isa = PBXFileReference; lastKnownFileType = folder; path = psalms; sourceTree = "<group>"; };
+		0DDCA9D92B4B6A5F00D52E1C /* linkedin-banner-jlouthan3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "linkedin-banner-jlouthan3.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +378,75 @@
 		0DDCA9602B4B69EF00D52E1C /* theologicus */ = {
 			isa = PBXGroup;
 			children = (
+				0DDCA99D2B4B6A4400D52E1C /* 404.html */,
+				0DDCA9D52B4B6A5C00D52E1C /* android-chrome-192x192.png */,
+				0DDCA9B82B4B6A5400D52E1C /* android-chrome-384x384.png */,
+				0DDCA9CD2B4B6A5C00D52E1C /* apple-touch-icon.png */,
+				0DDCA9A82B4B6A4E00D52E1C /* author.html */,
+				0DDCA9BF2B4B6A5400D52E1C /* ayu-highlight.css */,
+				0DDCA9CC2B4B6A5C00D52E1C /* bibliography */,
+				0DDCA9AB2B4B6A4F00D52E1C /* book.js */,
+				0DDCA9C72B4B6A5600D52E1C /* browserconfig.xml */,
+				0DDCA9952B4B6A3E00D52E1C /* catechism-1680 */,
+				0DDCA99A2B4B6A4100D52E1C /* CHANGELOG.html */,
+				0DDCA9A92B4B6A4E00D52E1C /* clipboard.min.js */,
+				0DDCA9B32B4B6A5200D52E1C /* confession-1689 */,
+				0DDCA9982B4B6A4000D52E1C /* creed-apostles */,
+				0DDCA9A22B4B6A4A00D52E1C /* creeds */,
+				0DDCA9CF2B4B6A5C00D52E1C /* css */,
+				0DDCA9992B4B6A4100D52E1C /* doctrine-christ-saves */,
+				0DDCA9C12B4B6A5400D52E1C /* elasticlunr.min.js */,
+				0DDCA9A72B4B6A4E00D52E1C /* expositors-academy */,
+				0DDCA9BA2B4B6A5400D52E1C /* favicon-16x16.png */,
+				0DDCA9B72B4B6A5400D52E1C /* favicon-32x32.png */,
+				0DDCA9A32B4B6A4B00D52E1C /* favicon.ico */,
+				0DDCA9B02B4B6A5000D52E1C /* favicon.png */,
+				0DDCA9D02B4B6A5C00D52E1C /* favicon.svg */,
+				0DDCA9AE2B4B6A5000D52E1C /* FontAwesome */,
+				0DDCA9C82B4B6A5600D52E1C /* fonts */,
+				0DDCA9CA2B4B6A5A00D52E1C /* genesis */,
+				0DDCA9D22B4B6A5C00D52E1C /* github-banner-theologicus3.png */,
+				0DDCA9AC2B4B6A4F00D52E1C /* github-book-theologicus.jpg */,
+				0DDCA9D12B4B6A5C00D52E1C /* github-book-theologicus3.png */,
+				0DDCA9D42B4B6A5C00D52E1C /* highlight.css */,
+				0DDCA9B52B4B6A5200D52E1C /* highlight.js */,
+				0DDCA99B2B4B6A4300D52E1C /* images */,
+				0DDCA9B12B4B6A5000D52E1C /* index.html */,
+				0DDCA9CE2B4B6A5C00D52E1C /* jlouthan-ai-starry-back-500-01.png */,
+				0DDCA99F2B4B6A4700D52E1C /* judges */,
+				0DDCA9D92B4B6A5F00D52E1C /* linkedin-banner-jlouthan3.png */,
+				0DDCA9AF2B4B6A5000D52E1C /* linkedin-banner-jlouthan4.jpg */,
+				0DDCA9D72B4B6A5C00D52E1C /* logo-csm.png */,
+				0DDCA9C52B4B6A5600D52E1C /* logo-safe6-sa.png */,
+				0DDCA9A02B4B6A4700D52E1C /* logo-theologicus.png */,
+				0DDCA9962B4B6A3E00D52E1C /* logo-theologicus2.jpg */,
+				0DDCA9BB2B4B6A5400D52E1C /* logo-theologicus3.png */,
+				0DDCA9B62B4B6A5400D52E1C /* luke */,
+				0DDCA9C32B4B6A5600D52E1C /* mark */,
+				0DDCA9B42B4B6A5200D52E1C /* mark.min.js */,
+				0DDCA9A12B4B6A4900D52E1C /* matthew */,
+				0DDCA9BC2B4B6A5400D52E1C /* ministry.html */,
+				0DDCA9C42B4B6A5600D52E1C /* mstile-144x144.png */,
+				0DDCA9B92B4B6A5400D52E1C /* mstile-150x150.png */,
+				0DDCA9D32B4B6A5C00D52E1C /* mstile-310x310.png */,
+				0DDCA99E2B4B6A4600D52E1C /* pastorals */,
+				0DDCA9AD2B4B6A5000D52E1C /* print.html */,
+				0DDCA9D82B4B6A5F00D52E1C /* psalms */,
+				0DDCA99C2B4B6A4400D52E1C /* reviews */,
+				0DDCA9C92B4B6A5800D52E1C /* romans */,
+				0DDCA9A42B4B6A4C00D52E1C /* ruth */,
+				0DDCA9CB2B4B6A5A00D52E1C /* safari-pinned-tab.svg */,
+				0DDCA9AA2B4B6A4F00D52E1C /* samuel-1 */,
+				0DDCA9A52B4B6A4E00D52E1C /* samuel-2 */,
+				0DDCA9BD2B4B6A5400D52E1C /* searcher.js */,
+				0DDCA9BE2B4B6A5400D52E1C /* searchindex.js */,
+				0DDCA9A62B4B6A4E00D52E1C /* searchindex.json */,
+				0DDCA9C62B4B6A5600D52E1C /* site.webmanifest */,
+				0DDCA9972B4B6A3E00D52E1C /* social-og-theologics3-1.png */,
+				0DDCA9C22B4B6A5400D52E1C /* social-twitter-theologics3-1.png */,
+				0DDCA9D62B4B6A5C00D52E1C /* tomorrow-night.css */,
+				0DDCA9C02B4B6A5400D52E1C /* vocation.html */,
+				0DDCA9B22B4B6A5000D52E1C /* youtube-book-theologicus3.jpg */,
 				0DDCA9612B4B69EF00D52E1C /* AppDelegate.swift */,
 				0DDCA9632B4B69EF00D52E1C /* SceneDelegate.swift */,
 				0DDCA9652B4B69EF00D52E1C /* ViewController.swift */,
@@ -236,9 +581,78 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0DDCAA4F2B4B6A5F00D52E1C /* ministry.html in Resources */,
+				0DDCAA552B4B6A5F00D52E1C /* searchindex.js in Resources */,
+				0DDCA9EC2B4B6A5F00D52E1C /* images in Resources */,
+				0DDCAA012B4B6A5F00D52E1C /* creeds in Resources */,
+				0DDCAA042B4B6A5F00D52E1C /* favicon.ico in Resources */,
+				0DDCAA642B4B6A5F00D52E1C /* mark in Resources */,
+				0DDCAA612B4B6A5F00D52E1C /* social-twitter-theologics3-1.png in Resources */,
+				0DDCAA972B4B6A5F00D52E1C /* highlight.css in Resources */,
+				0DDCAA5E2B4B6A5F00D52E1C /* elasticlunr.min.js in Resources */,
+				0DDCAA3A2B4B6A5F00D52E1C /* highlight.js in Resources */,
+				0DDCA9FE2B4B6A5F00D52E1C /* matthew in Resources */,
+				0DDCAA702B4B6A5F00D52E1C /* browserconfig.xml in Resources */,
+				0DDCAA732B4B6A5F00D52E1C /* fonts in Resources */,
+				0DDCA9EF2B4B6A5F00D52E1C /* reviews in Resources */,
+				0DDCAA6D2B4B6A5F00D52E1C /* site.webmanifest in Resources */,
+				0DDCAA522B4B6A5F00D52E1C /* searcher.js in Resources */,
+				0DDCAA6A2B4B6A5F00D52E1C /* logo-safe6-sa.png in Resources */,
+				0DDCAA312B4B6A5F00D52E1C /* youtube-book-theologicus3.jpg in Resources */,
+				0DDCAA4C2B4B6A5F00D52E1C /* logo-theologicus3.png in Resources */,
+				0DDCAA2E2B4B6A5F00D52E1C /* index.html in Resources */,
+				0DDCAA162B4B6A5F00D52E1C /* clipboard.min.js in Resources */,
+				0DDCA9F82B4B6A5F00D52E1C /* judges in Resources */,
+				0DDCA9E32B4B6A5F00D52E1C /* creed-apostles in Resources */,
+				0DDCAA762B4B6A5F00D52E1C /* romans in Resources */,
+				0DDCAA0D2B4B6A5F00D52E1C /* searchindex.json in Resources */,
+				0DDCAA792B4B6A5F00D52E1C /* genesis in Resources */,
+				0DDCAAA02B4B6A5F00D52E1C /* logo-csm.png in Resources */,
+				0DDCAA7F2B4B6A5F00D52E1C /* bibliography in Resources */,
+				0DDCAA072B4B6A5F00D52E1C /* ruth in Resources */,
+				0DDCAA402B4B6A5F00D52E1C /* favicon-32x32.png in Resources */,
+				0DDCAA882B4B6A5F00D52E1C /* css in Resources */,
+				0DDCAA1F2B4B6A5F00D52E1C /* github-book-theologicus.jpg in Resources */,
+				0DDCA9FB2B4B6A5F00D52E1C /* logo-theologicus.png in Resources */,
+				0DDCA9F22B4B6A5F00D52E1C /* 404.html in Resources */,
+				0DDCA9DD2B4B6A5F00D52E1C /* logo-theologicus2.jpg in Resources */,
+				0DDCAA372B4B6A5F00D52E1C /* mark.min.js in Resources */,
+				0DDCAA2B2B4B6A5F00D52E1C /* favicon.png in Resources */,
+				0DDCAA222B4B6A5F00D52E1C /* print.html in Resources */,
+				0DDCAAA62B4B6A5F00D52E1C /* linkedin-banner-jlouthan3.png in Resources */,
+				0DDCA9E02B4B6A5F00D52E1C /* social-og-theologics3-1.png in Resources */,
+				0DDCAA9A2B4B6A5F00D52E1C /* android-chrome-192x192.png in Resources */,
+				0DDCAA102B4B6A5F00D52E1C /* expositors-academy in Resources */,
+				0DDCAA282B4B6A5F00D52E1C /* linkedin-banner-jlouthan4.jpg in Resources */,
+				0DDCAA342B4B6A5F00D52E1C /* confession-1689 in Resources */,
+				0DDCAA9D2B4B6A5F00D52E1C /* tomorrow-night.css in Resources */,
+				0DDCAAA32B4B6A5F00D52E1C /* psalms in Resources */,
 				0DDCA9712B4B69F000D52E1C /* LaunchScreen.storyboard in Resources */,
+				0DDCAA672B4B6A5F00D52E1C /* mstile-144x144.png in Resources */,
+				0DDCAA582B4B6A5F00D52E1C /* ayu-highlight.css in Resources */,
+				0DDCAA3D2B4B6A5F00D52E1C /* luke in Resources */,
+				0DDCAA192B4B6A5F00D52E1C /* samuel-1 in Resources */,
+				0DDCAA132B4B6A5F00D52E1C /* author.html in Resources */,
+				0DDCAA252B4B6A5F00D52E1C /* FontAwesome in Resources */,
+				0DDCAA912B4B6A5F00D52E1C /* github-banner-theologicus3.png in Resources */,
 				0DDCA96E2B4B69F000D52E1C /* Assets.xcassets in Resources */,
+				0DDCAA8E2B4B6A5F00D52E1C /* github-book-theologicus3.png in Resources */,
+				0DDCAA942B4B6A5F00D52E1C /* mstile-310x310.png in Resources */,
+				0DDCAA822B4B6A5F00D52E1C /* apple-touch-icon.png in Resources */,
+				0DDCAA1C2B4B6A5F00D52E1C /* book.js in Resources */,
+				0DDCAA5B2B4B6A5F00D52E1C /* vocation.html in Resources */,
+				0DDCAA492B4B6A5F00D52E1C /* favicon-16x16.png in Resources */,
+				0DDCA9E92B4B6A5F00D52E1C /* CHANGELOG.html in Resources */,
+				0DDCAA8B2B4B6A5F00D52E1C /* favicon.svg in Resources */,
+				0DDCAA7C2B4B6A5F00D52E1C /* safari-pinned-tab.svg in Resources */,
+				0DDCA9F52B4B6A5F00D52E1C /* pastorals in Resources */,
 				0DDCA9692B4B69EF00D52E1C /* Main.storyboard in Resources */,
+				0DDCA9E62B4B6A5F00D52E1C /* doctrine-christ-saves in Resources */,
+				0DDCAA462B4B6A5F00D52E1C /* mstile-150x150.png in Resources */,
+				0DDCAA0A2B4B6A5F00D52E1C /* samuel-2 in Resources */,
+				0DDCA9DA2B4B6A5F00D52E1C /* catechism-1680 in Resources */,
+				0DDCAA432B4B6A5F00D52E1C /* android-chrome-384x384.png in Resources */,
+				0DDCAA852B4B6A5F00D52E1C /* jlouthan-ai-starry-back-500-01.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -246,6 +660,75 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0DDCA9DE2B4B6A5F00D52E1C /* logo-theologicus2.jpg in Resources */,
+				0DDCAA712B4B6A5F00D52E1C /* browserconfig.xml in Resources */,
+				0DDCA9E42B4B6A5F00D52E1C /* creed-apostles in Resources */,
+				0DDCAA9E2B4B6A5F00D52E1C /* tomorrow-night.css in Resources */,
+				0DDCAA8F2B4B6A5F00D52E1C /* github-book-theologicus3.png in Resources */,
+				0DDCAA172B4B6A5F00D52E1C /* clipboard.min.js in Resources */,
+				0DDCAAA42B4B6A5F00D52E1C /* psalms in Resources */,
+				0DDCA9E12B4B6A5F00D52E1C /* social-og-theologics3-1.png in Resources */,
+				0DDCAA622B4B6A5F00D52E1C /* social-twitter-theologics3-1.png in Resources */,
+				0DDCA9F32B4B6A5F00D52E1C /* 404.html in Resources */,
+				0DDCAA292B4B6A5F00D52E1C /* linkedin-banner-jlouthan4.jpg in Resources */,
+				0DDCAA352B4B6A5F00D52E1C /* confession-1689 in Resources */,
+				0DDCAA022B4B6A5F00D52E1C /* creeds in Resources */,
+				0DDCAA112B4B6A5F00D52E1C /* expositors-academy in Resources */,
+				0DDCA9F92B4B6A5F00D52E1C /* judges in Resources */,
+				0DDCA9E72B4B6A5F00D52E1C /* doctrine-christ-saves in Resources */,
+				0DDCAA7D2B4B6A5F00D52E1C /* safari-pinned-tab.svg in Resources */,
+				0DDCAA0B2B4B6A5F00D52E1C /* samuel-2 in Resources */,
+				0DDCAA142B4B6A5F00D52E1C /* author.html in Resources */,
+				0DDCAA082B4B6A5F00D52E1C /* ruth in Resources */,
+				0DDCAA232B4B6A5F00D52E1C /* print.html in Resources */,
+				0DDCAA532B4B6A5F00D52E1C /* searcher.js in Resources */,
+				0DDCAA262B4B6A5F00D52E1C /* FontAwesome in Resources */,
+				0DDCAA6E2B4B6A5F00D52E1C /* site.webmanifest in Resources */,
+				0DDCA9F02B4B6A5F00D52E1C /* reviews in Resources */,
+				0DDCAA7A2B4B6A5F00D52E1C /* genesis in Resources */,
+				0DDCAAA72B4B6A5F00D52E1C /* linkedin-banner-jlouthan3.png in Resources */,
+				0DDCAA3E2B4B6A5F00D52E1C /* luke in Resources */,
+				0DDCAA802B4B6A5F00D52E1C /* bibliography in Resources */,
+				0DDCAA562B4B6A5F00D52E1C /* searchindex.js in Resources */,
+				0DDCA9FC2B4B6A5F00D52E1C /* logo-theologicus.png in Resources */,
+				0DDCA9DB2B4B6A5F00D52E1C /* catechism-1680 in Resources */,
+				0DDCAA382B4B6A5F00D52E1C /* mark.min.js in Resources */,
+				0DDCAA1A2B4B6A5F00D52E1C /* samuel-1 in Resources */,
+				0DDCAA742B4B6A5F00D52E1C /* fonts in Resources */,
+				0DDCAA412B4B6A5F00D52E1C /* favicon-32x32.png in Resources */,
+				0DDCAA502B4B6A5F00D52E1C /* ministry.html in Resources */,
+				0DDCAA3B2B4B6A5F00D52E1C /* highlight.js in Resources */,
+				0DDCAA5C2B4B6A5F00D52E1C /* vocation.html in Resources */,
+				0DDCAAA12B4B6A5F00D52E1C /* logo-csm.png in Resources */,
+				0DDCAA202B4B6A5F00D52E1C /* github-book-theologicus.jpg in Resources */,
+				0DDCAA5F2B4B6A5F00D52E1C /* elasticlunr.min.js in Resources */,
+				0DDCAA952B4B6A5F00D52E1C /* mstile-310x310.png in Resources */,
+				0DDCAA4D2B4B6A5F00D52E1C /* logo-theologicus3.png in Resources */,
+				0DDCAA832B4B6A5F00D52E1C /* apple-touch-icon.png in Resources */,
+				0DDCA9ED2B4B6A5F00D52E1C /* images in Resources */,
+				0DDCA9F62B4B6A5F00D52E1C /* pastorals in Resources */,
+				0DDCAA4A2B4B6A5F00D52E1C /* favicon-16x16.png in Resources */,
+				0DDCAA592B4B6A5F00D52E1C /* ayu-highlight.css in Resources */,
+				0DDCAA6B2B4B6A5F00D52E1C /* logo-safe6-sa.png in Resources */,
+				0DDCAA772B4B6A5F00D52E1C /* romans in Resources */,
+				0DDCA9FF2B4B6A5F00D52E1C /* matthew in Resources */,
+				0DDCAA322B4B6A5F00D52E1C /* youtube-book-theologicus3.jpg in Resources */,
+				0DDCAA862B4B6A5F00D52E1C /* jlouthan-ai-starry-back-500-01.png in Resources */,
+				0DDCAA9B2B4B6A5F00D52E1C /* android-chrome-192x192.png in Resources */,
+				0DDCAA2F2B4B6A5F00D52E1C /* index.html in Resources */,
+				0DDCA9EA2B4B6A5F00D52E1C /* CHANGELOG.html in Resources */,
+				0DDCAA922B4B6A5F00D52E1C /* github-banner-theologicus3.png in Resources */,
+				0DDCAA2C2B4B6A5F00D52E1C /* favicon.png in Resources */,
+				0DDCAA892B4B6A5F00D52E1C /* css in Resources */,
+				0DDCAA442B4B6A5F00D52E1C /* android-chrome-384x384.png in Resources */,
+				0DDCAA682B4B6A5F00D52E1C /* mstile-144x144.png in Resources */,
+				0DDCAA0E2B4B6A5F00D52E1C /* searchindex.json in Resources */,
+				0DDCAA652B4B6A5F00D52E1C /* mark in Resources */,
+				0DDCAA472B4B6A5F00D52E1C /* mstile-150x150.png in Resources */,
+				0DDCAA982B4B6A5F00D52E1C /* highlight.css in Resources */,
+				0DDCAA052B4B6A5F00D52E1C /* favicon.ico in Resources */,
+				0DDCAA1D2B4B6A5F00D52E1C /* book.js in Resources */,
+				0DDCAA8C2B4B6A5F00D52E1C /* favicon.svg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -253,6 +736,75 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0DDCA9DF2B4B6A5F00D52E1C /* logo-theologicus2.jpg in Resources */,
+				0DDCAA722B4B6A5F00D52E1C /* browserconfig.xml in Resources */,
+				0DDCA9E52B4B6A5F00D52E1C /* creed-apostles in Resources */,
+				0DDCAA9F2B4B6A5F00D52E1C /* tomorrow-night.css in Resources */,
+				0DDCAA902B4B6A5F00D52E1C /* github-book-theologicus3.png in Resources */,
+				0DDCAA182B4B6A5F00D52E1C /* clipboard.min.js in Resources */,
+				0DDCAAA52B4B6A5F00D52E1C /* psalms in Resources */,
+				0DDCA9E22B4B6A5F00D52E1C /* social-og-theologics3-1.png in Resources */,
+				0DDCAA632B4B6A5F00D52E1C /* social-twitter-theologics3-1.png in Resources */,
+				0DDCA9F42B4B6A5F00D52E1C /* 404.html in Resources */,
+				0DDCAA2A2B4B6A5F00D52E1C /* linkedin-banner-jlouthan4.jpg in Resources */,
+				0DDCAA362B4B6A5F00D52E1C /* confession-1689 in Resources */,
+				0DDCAA032B4B6A5F00D52E1C /* creeds in Resources */,
+				0DDCAA122B4B6A5F00D52E1C /* expositors-academy in Resources */,
+				0DDCA9FA2B4B6A5F00D52E1C /* judges in Resources */,
+				0DDCA9E82B4B6A5F00D52E1C /* doctrine-christ-saves in Resources */,
+				0DDCAA7E2B4B6A5F00D52E1C /* safari-pinned-tab.svg in Resources */,
+				0DDCAA0C2B4B6A5F00D52E1C /* samuel-2 in Resources */,
+				0DDCAA152B4B6A5F00D52E1C /* author.html in Resources */,
+				0DDCAA092B4B6A5F00D52E1C /* ruth in Resources */,
+				0DDCAA242B4B6A5F00D52E1C /* print.html in Resources */,
+				0DDCAA542B4B6A5F00D52E1C /* searcher.js in Resources */,
+				0DDCAA272B4B6A5F00D52E1C /* FontAwesome in Resources */,
+				0DDCAA6F2B4B6A5F00D52E1C /* site.webmanifest in Resources */,
+				0DDCA9F12B4B6A5F00D52E1C /* reviews in Resources */,
+				0DDCAA7B2B4B6A5F00D52E1C /* genesis in Resources */,
+				0DDCAAA82B4B6A5F00D52E1C /* linkedin-banner-jlouthan3.png in Resources */,
+				0DDCAA3F2B4B6A5F00D52E1C /* luke in Resources */,
+				0DDCAA812B4B6A5F00D52E1C /* bibliography in Resources */,
+				0DDCAA572B4B6A5F00D52E1C /* searchindex.js in Resources */,
+				0DDCA9FD2B4B6A5F00D52E1C /* logo-theologicus.png in Resources */,
+				0DDCA9DC2B4B6A5F00D52E1C /* catechism-1680 in Resources */,
+				0DDCAA392B4B6A5F00D52E1C /* mark.min.js in Resources */,
+				0DDCAA1B2B4B6A5F00D52E1C /* samuel-1 in Resources */,
+				0DDCAA752B4B6A5F00D52E1C /* fonts in Resources */,
+				0DDCAA422B4B6A5F00D52E1C /* favicon-32x32.png in Resources */,
+				0DDCAA512B4B6A5F00D52E1C /* ministry.html in Resources */,
+				0DDCAA3C2B4B6A5F00D52E1C /* highlight.js in Resources */,
+				0DDCAA5D2B4B6A5F00D52E1C /* vocation.html in Resources */,
+				0DDCAAA22B4B6A5F00D52E1C /* logo-csm.png in Resources */,
+				0DDCAA212B4B6A5F00D52E1C /* github-book-theologicus.jpg in Resources */,
+				0DDCAA602B4B6A5F00D52E1C /* elasticlunr.min.js in Resources */,
+				0DDCAA962B4B6A5F00D52E1C /* mstile-310x310.png in Resources */,
+				0DDCAA4E2B4B6A5F00D52E1C /* logo-theologicus3.png in Resources */,
+				0DDCAA842B4B6A5F00D52E1C /* apple-touch-icon.png in Resources */,
+				0DDCA9EE2B4B6A5F00D52E1C /* images in Resources */,
+				0DDCA9F72B4B6A5F00D52E1C /* pastorals in Resources */,
+				0DDCAA4B2B4B6A5F00D52E1C /* favicon-16x16.png in Resources */,
+				0DDCAA5A2B4B6A5F00D52E1C /* ayu-highlight.css in Resources */,
+				0DDCAA6C2B4B6A5F00D52E1C /* logo-safe6-sa.png in Resources */,
+				0DDCAA782B4B6A5F00D52E1C /* romans in Resources */,
+				0DDCAA002B4B6A5F00D52E1C /* matthew in Resources */,
+				0DDCAA332B4B6A5F00D52E1C /* youtube-book-theologicus3.jpg in Resources */,
+				0DDCAA872B4B6A5F00D52E1C /* jlouthan-ai-starry-back-500-01.png in Resources */,
+				0DDCAA9C2B4B6A5F00D52E1C /* android-chrome-192x192.png in Resources */,
+				0DDCAA302B4B6A5F00D52E1C /* index.html in Resources */,
+				0DDCA9EB2B4B6A5F00D52E1C /* CHANGELOG.html in Resources */,
+				0DDCAA932B4B6A5F00D52E1C /* github-banner-theologicus3.png in Resources */,
+				0DDCAA2D2B4B6A5F00D52E1C /* favicon.png in Resources */,
+				0DDCAA8A2B4B6A5F00D52E1C /* css in Resources */,
+				0DDCAA452B4B6A5F00D52E1C /* android-chrome-384x384.png in Resources */,
+				0DDCAA692B4B6A5F00D52E1C /* mstile-144x144.png in Resources */,
+				0DDCAA0F2B4B6A5F00D52E1C /* searchindex.json in Resources */,
+				0DDCAA662B4B6A5F00D52E1C /* mark in Resources */,
+				0DDCAA482B4B6A5F00D52E1C /* mstile-150x150.png in Resources */,
+				0DDCAA992B4B6A5F00D52E1C /* highlight.css in Resources */,
+				0DDCAA062B4B6A5F00D52E1C /* favicon.ico in Resources */,
+				0DDCAA1E2B4B6A5F00D52E1C /* book.js in Resources */,
+				0DDCAA8D2B4B6A5F00D52E1C /* favicon.svg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -452,16 +1004,18 @@
 				DEVELOPMENT_TEAM = FKH53AY44D;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = theologicus/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.books";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 3.3;
 				PRODUCT_BUNDLE_IDENTIFIER = com.theologicus;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -481,16 +1035,18 @@
 				DEVELOPMENT_TEAM = FKH53AY44D;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = theologicus/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.books";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 3.3;
 				PRODUCT_BUNDLE_IDENTIFIER = com.theologicus;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
