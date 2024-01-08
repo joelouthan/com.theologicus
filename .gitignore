@@ -1,1 +1,37 @@
 .DS_Store
+
+# Xcode #
+#########
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
+.idea/
+
+# Swift Package Manager #
+##########################
+.build/
+Packages/
+Package.pins
+Package.resolved
+*.xcodeproj
+
+# CocoaPods #
+#############
+# Ignore Pods directory
+Pods/
+
+# Carthage #
+############
+# Ignore Carthage directory
+Carthage/Build
+
+# fastlane #
+############
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Code Injection #
+##################
+injected_container.swift
