@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 56;
+	objectVersion = 60;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -244,7 +244,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0DDCA95E2B4B69EF00D52E1C /* theologicus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = theologicus.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0DDCA95E2B4B69EF00D52E1C /* Theologicus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Theologicus.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DDCA9612B4B69EF00D52E1C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0DDCA9632B4B69EF00D52E1C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		0DDCA9652B4B69EF00D52E1C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -254,9 +254,9 @@
 		0DDCA9702B4B69F000D52E1C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0DDCA9722B4B69F000D52E1C /* theologicus.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = theologicus.entitlements; sourceTree = "<group>"; };
 		0DDCA9732B4B69F000D52E1C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0DDCA9782B4B69F000D52E1C /* theologicusTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = theologicusTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0DDCA9782B4B69F000D52E1C /* TheologicusTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TheologicusTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DDCA97C2B4B69F000D52E1C /* theologicusTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = theologicusTests.swift; sourceTree = "<group>"; };
-		0DDCA9822B4B69F000D52E1C /* theologicusUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = theologicusUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0DDCA9822B4B69F000D52E1C /* TheologicusUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TheologicusUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DDCA9862B4B69F000D52E1C /* theologicusUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = theologicusUITests.swift; sourceTree = "<group>"; };
 		0DDCA9882B4B69F000D52E1C /* theologicusUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = theologicusUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		0DDCA9952B4B6A3E00D52E1C /* catechism-1680 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "catechism-1680"; sourceTree = "<group>"; };
@@ -368,9 +368,9 @@
 		0DDCA95F2B4B69EF00D52E1C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0DDCA95E2B4B69EF00D52E1C /* theologicus.app */,
-				0DDCA9782B4B69F000D52E1C /* theologicusTests.xctest */,
-				0DDCA9822B4B69F000D52E1C /* theologicusUITests.xctest */,
+				0DDCA95E2B4B69EF00D52E1C /* Theologicus.app */,
+				0DDCA9782B4B69F000D52E1C /* TheologicusTests.xctest */,
+				0DDCA9822B4B69F000D52E1C /* TheologicusUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -480,9 +480,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0DDCA95D2B4B69EF00D52E1C /* theologicus */ = {
+		0DDCA95D2B4B69EF00D52E1C /* Theologicus */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0DDCA98C2B4B69F000D52E1C /* Build configuration list for PBXNativeTarget "theologicus" */;
+			buildConfigurationList = 0DDCA98C2B4B69F000D52E1C /* Build configuration list for PBXNativeTarget "Theologicus" */;
 			buildPhases = (
 				0DDCA95A2B4B69EF00D52E1C /* Sources */,
 				0DDCA95B2B4B69EF00D52E1C /* Frameworks */,
@@ -492,14 +492,14 @@
 			);
 			dependencies = (
 			);
-			name = theologicus;
+			name = Theologicus;
 			productName = theologicus;
-			productReference = 0DDCA95E2B4B69EF00D52E1C /* theologicus.app */;
+			productReference = 0DDCA95E2B4B69EF00D52E1C /* Theologicus.app */;
 			productType = "com.apple.product-type.application";
 		};
-		0DDCA9772B4B69F000D52E1C /* theologicusTests */ = {
+		0DDCA9772B4B69F000D52E1C /* TheologicusTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0DDCA98F2B4B69F000D52E1C /* Build configuration list for PBXNativeTarget "theologicusTests" */;
+			buildConfigurationList = 0DDCA98F2B4B69F000D52E1C /* Build configuration list for PBXNativeTarget "TheologicusTests" */;
 			buildPhases = (
 				0DDCA9742B4B69F000D52E1C /* Sources */,
 				0DDCA9752B4B69F000D52E1C /* Frameworks */,
@@ -510,14 +510,14 @@
 			dependencies = (
 				0DDCA97A2B4B69F000D52E1C /* PBXTargetDependency */,
 			);
-			name = theologicusTests;
+			name = TheologicusTests;
 			productName = theologicusTests;
-			productReference = 0DDCA9782B4B69F000D52E1C /* theologicusTests.xctest */;
+			productReference = 0DDCA9782B4B69F000D52E1C /* TheologicusTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		0DDCA9812B4B69F000D52E1C /* theologicusUITests */ = {
+		0DDCA9812B4B69F000D52E1C /* TheologicusUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0DDCA9922B4B69F000D52E1C /* Build configuration list for PBXNativeTarget "theologicusUITests" */;
+			buildConfigurationList = 0DDCA9922B4B69F000D52E1C /* Build configuration list for PBXNativeTarget "TheologicusUITests" */;
 			buildPhases = (
 				0DDCA97E2B4B69F000D52E1C /* Sources */,
 				0DDCA97F2B4B69F000D52E1C /* Frameworks */,
@@ -528,9 +528,9 @@
 			dependencies = (
 				0DDCA9842B4B69F000D52E1C /* PBXTargetDependency */,
 			);
-			name = theologicusUITests;
+			name = TheologicusUITests;
 			productName = theologicusUITests;
-			productReference = 0DDCA9822B4B69F000D52E1C /* theologicusUITests.xctest */;
+			productReference = 0DDCA9822B4B69F000D52E1C /* TheologicusUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -556,8 +556,8 @@
 					};
 				};
 			};
-			buildConfigurationList = 0DDCA9592B4B69EF00D52E1C /* Build configuration list for PBXProject "theologicus" */;
-			compatibilityVersion = "Xcode 14.0";
+			buildConfigurationList = 0DDCA9592B4B69EF00D52E1C /* Build configuration list for PBXProject "Theologicus" */;
+			compatibilityVersion = "Xcode 15.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -569,9 +569,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0DDCA95D2B4B69EF00D52E1C /* theologicus */,
-				0DDCA9772B4B69F000D52E1C /* theologicusTests */,
-				0DDCA9812B4B69F000D52E1C /* theologicusUITests */,
+				0DDCA95D2B4B69EF00D52E1C /* Theologicus */,
+				0DDCA9772B4B69F000D52E1C /* TheologicusTests */,
+				0DDCA9812B4B69F000D52E1C /* TheologicusUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -844,12 +844,12 @@
 /* Begin PBXTargetDependency section */
 		0DDCA97A2B4B69F000D52E1C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0DDCA95D2B4B69EF00D52E1C /* theologicus */;
+			target = 0DDCA95D2B4B69EF00D52E1C /* Theologicus */;
 			targetProxy = 0DDCA9792B4B69F000D52E1C /* PBXContainerItemProxy */;
 		};
 		0DDCA9842B4B69F000D52E1C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0DDCA95D2B4B69EF00D52E1C /* theologicus */;
+			target = 0DDCA95D2B4B69EF00D52E1C /* Theologicus */;
 			targetProxy = 0DDCA9832B4B69F000D52E1C /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -1071,7 +1071,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/theologicus.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/theologicus";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Theologicus.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Theologicus";
 			};
 			name = Debug;
 		};
@@ -1091,7 +1091,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/theologicus.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/theologicus";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Theologicus.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Theologicus";
 			};
 			name = Release;
 		};
@@ -1134,7 +1134,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0DDCA9592B4B69EF00D52E1C /* Build configuration list for PBXProject "theologicus" */ = {
+		0DDCA9592B4B69EF00D52E1C /* Build configuration list for PBXProject "Theologicus" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0DDCA98A2B4B69F000D52E1C /* Debug */,
@@ -1143,7 +1143,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0DDCA98C2B4B69F000D52E1C /* Build configuration list for PBXNativeTarget "theologicus" */ = {
+		0DDCA98C2B4B69F000D52E1C /* Build configuration list for PBXNativeTarget "Theologicus" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0DDCA98D2B4B69F000D52E1C /* Debug */,
@@ -1152,7 +1152,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0DDCA98F2B4B69F000D52E1C /* Build configuration list for PBXNativeTarget "theologicusTests" */ = {
+		0DDCA98F2B4B69F000D52E1C /* Build configuration list for PBXNativeTarget "TheologicusTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0DDCA9902B4B69F000D52E1C /* Debug */,
@@ -1161,7 +1161,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0DDCA9922B4B69F000D52E1C /* Build configuration list for PBXNativeTarget "theologicusUITests" */ = {
+		0DDCA9922B4B69F000D52E1C /* Build configuration list for PBXNativeTarget "TheologicusUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0DDCA9932B4B69F000D52E1C /* Debug */,
