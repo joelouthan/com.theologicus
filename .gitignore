@@ -2,8 +2,8 @@
 
 # Xcode #
 #########
-*.xcodeproj/xcuserdata/
-*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/*
+*.xcodeproj/*.xcworkspace/xcuserdata/*
 DerivedData/
 .idea/
 
