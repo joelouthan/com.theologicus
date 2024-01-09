@@ -26,7 +26,7 @@
 
 ## using
 
-[![tools](https://skillicons.dev/icons?i=vscode,vim,rust,md,css,html,bash,git,github,netlify,linux)]()
+[![tools](https://skillicons.dev/icons?i=swift,vscode,vim,rust,md,css,html,bash,git,github,netlify,linux)]()
 
 ## contact me
 
