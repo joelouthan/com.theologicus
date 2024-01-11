@@ -6,6 +6,7 @@
 *.xcodeproj/*.xcworkspace/xcuserdata/*
 DerivedData/
 .idea/
+*.xcuserstate
 
 # Swift Package Manager #
 ##########################
