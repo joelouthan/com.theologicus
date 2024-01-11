@@ -542,6 +542,7 @@
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1510;
 				LastUpgradeCheck = 1510;
+				ORGANIZATIONNAME = Theologicus;
 				TargetAttributes = {
 					0DDCA95D2B4B69EF00D52E1C = {
 						CreatedOnToolsVersion = 15.1;
@@ -556,7 +557,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0DDCA9592B4B69EF00D52E1C /* Build configuration list for PBXProject "Theologicus" */;
+			buildConfigurationList = 0DDCA9592B4B69EF00D52E1C /* Build configuration list for PBXProject "theologicus" */;
 			compatibilityVersion = "Xcode 15.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -1134,7 +1135,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0DDCA9592B4B69EF00D52E1C /* Build configuration list for PBXProject "Theologicus" */ = {
+		0DDCA9592B4B69EF00D52E1C /* Build configuration list for PBXProject "theologicus" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0DDCA98A2B4B69F000D52E1C /* Debug */,
