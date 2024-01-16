@@ -90,3 +90,7 @@ iOSInjectionProject/
 # End of https://www.toptal.com/developers/gitignore/api/swift
 
 Theologicus.xcodeproj/project.xcworkspace/xcuserdata/jlouthan.xcuserdatad/UserInterfaceState.xcuserstate
+# Code Injection #
+##################
+injected_container.swift
+Theologicus.xcodeproj/project.xcworkspace/xcuserdata/jlouthan.xcuserdatad/UserInterfaceState.xcuserstate
